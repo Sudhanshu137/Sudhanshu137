@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sudhanshu Kumar!
 
-<!--
-**Sudhanshu137/Sudhanshu137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Keploy API Fellow** | 💻 Developer | 🚀 Tech Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills
+- **Languages**: Python, C++, Java, Dart
+- **Frameworks**: Flutter, Node.js, Express.js
+- **Tools**: Git, GitHub, Postman, Docker, Firebase, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Notable Projects
+- 🎨 **Skribbl Game Clone**: Real-time multiplayer drawing game using Flutter & Node.js
+- 🔍 **Image Forgery Detection**: Deepfake/image forgery detector using CNNs, Grad-CAM, MTCNN
+- 📊 **Customer Churn Prediction**: ML project using Random Forest & telecom data
+
+## 🏆 Achievements
+- ✅ Completed Graphs Programming Camp by AlgoUniversity (Top 40k+ Applicants)
+- ✅ Working on Keploy API Fellowship
+
+## 💡 Interests
+- Open Source 🌐
+- Backend & APIs 🧠
+- AI/ML and Computer Vision 🤖
+- Building developer tools ⚙️
+
+---
+
+📫 Reach out to collaborate or connect: [LinkedIn](https://www.linkedin.com/in/sudhanshu137/)
