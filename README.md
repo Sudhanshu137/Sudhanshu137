@@ -8,7 +8,7 @@
 - **Tools**: Git, GitHub, Postman, Docker, Firebase, MongoDB
 
 ## 📌 Notable Projects
-- 🎨 **Skribbl Game Clone**: Real-time multiplayer drawing game using Flutter & Node.js
+- 🎨 **Sketch Rush App**: Real-time multiplayer drawing game using Flutter & Node.js
 - 🔍 **Image Forgery Detection**: Deepfake/image forgery detector using CNNs, Grad-CAM, MTCNN
 - 📊 **Customer Churn Prediction**: ML project using Random Forest & telecom data
 
