@@ -3,8 +3,8 @@
 🎓 **Keploy API Fellow** | 💻 Developer | 🚀 Tech Enthusiast  
 
 ## 🚀 Technical Skills
-- **Languages**: Python, C++, Java, Dart
-- **Frameworks**: Flutter, Node.js, Express.js
+- **Languages**: Python,Java, Dart
+- **Frameworks**: Flutter, Node.js
 - **Tools**: Git, GitHub, Postman, Docker, Firebase, MongoDB
 
 ## 📌 Notable Projects
@@ -14,7 +14,7 @@
 
 ## 🏆 Achievements
 - ✅ Completed Graphs Programming Camp by AlgoUniversity (Top 40k+ Applicants)
-- ✅ Working on Keploy API Fellowship
+- ✅ Worked on Keploy API Fellowship
 
 ## 💡 Interests
 - Open Source 🌐
