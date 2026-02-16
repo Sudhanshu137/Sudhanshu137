@@ -47,7 +47,7 @@
 - Data Preprocessing
 - Supervised Learning
 - Predictive Modeling
-- Gemini AI Integration
+- AI Integration
 
 ---
 
